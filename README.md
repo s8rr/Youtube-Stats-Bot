@@ -5,7 +5,7 @@ The YouTube Stats Bot is a handy Discord bot that allows users to fetch statisti
 
 1. Create a Discord Bot:
 
-    Go to the [Discord Developer Portal](https://discord.com/developers/applications).
-    Create a new application.
-    Under the "Bot" tab, create a bot user.
-    Copy the bot token for later use.
+   - Go to the [Discord Developer Portal](https://discord.com/developers/applications).
+   - Create a new application.
+   - Under the "Bot" tab, create a bot user.
+   - Copy the bot token for later use.
