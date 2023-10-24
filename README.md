@@ -24,3 +24,10 @@ The YouTube Stats Bot is a handy Discord bot that allows users to fetch statisti
 ```
 pip install discord.py google-auth google-auth-httplib2 google-api-python-client
 ```
+
+4. Customize the Bot:
+
+   - Replace 'YOUR_DISCORD_BOT_TOKEN' in the Python code with your Discord bot token.
+   - Replace 'YOUR_YOUTUBE_API_KEY' with your YouTube Data API key.
+   - Customize the bot's command prefix in the code if needed.
+
