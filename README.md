@@ -31,3 +31,9 @@ pip install discord.py google-auth google-auth-httplib2 google-api-python-client
    - Replace 'YOUR_YOUTUBE_API_KEY' with your YouTube Data API key.
    - Customize the bot's command prefix in the code if needed.
 
+5. Run the Bot:
+
+   - Save the Python code to a file, e.g., youtube_bot.py.
+   - Run the script using your Python environment.
+   - The bot will join your Discord server and respond to YouTube links with video statistics.
+
