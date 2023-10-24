@@ -1,6 +1,21 @@
 # Youtube-API-Bot
 The YouTube Stats Bot is a handy Discord bot that allows users to fetch statistics for YouTube videos directly within a Discord server. With this bot, you can quickly check the view count and dislike count of any YouTube video by simply providing its URL.
 
+Features:
+
+- Automatic URL Detection: The bot automatically detects YouTube video links shared in the server's chat and responds with relevant information.
+
+- YouTube API Integration: It utilizes the YouTube Data API to fetch up-to-date statistics, ensuring accuracy.
+
+- Informative Responses: When a user shares a YouTube link, the bot replies with the video's title, view count, and dislike count. If the video doesn't have any dislikes, it gracefully reports "N/A."
+
+- Customizable Prefix: You can customize the bot's command prefix to align with your server's needs.
+
+
+
+
+
+
 # YouTube Stats Bot Setup Guide
 
 1. Create a Discord Bot:
