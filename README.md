@@ -21,3 +21,6 @@ The YouTube Stats Bot is a handy Discord bot that allows users to fetch statisti
 
    - Ensure you have Python installed on your system.
    - Install the required libraries using pip:
+```
+pip install discord.py google-auth google-auth-httplib2 google-api-python-client
+```
