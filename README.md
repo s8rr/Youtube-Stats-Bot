@@ -9,3 +9,10 @@ The YouTube Stats Bot is a handy Discord bot that allows users to fetch statisti
    - Create a new application.
    - Under the "Bot" tab, create a bot user.
    - Copy the bot token for later use.
+
+2. Obtain a YouTube Data API Key:
+
+   - Go to the [Google Cloud Console](https://console.cloud.google.com/).
+   - Create a new project.
+   - Enable the YouTube Data API v3 in the Library.
+   - Create an API key from the "Credentials" section.
